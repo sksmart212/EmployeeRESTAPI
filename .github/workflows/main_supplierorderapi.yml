@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'SupplierOrderAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE62D44754BA4A66BCE5C6E02338704C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_353F8240FEBC4F32A00C799D27F37C47 }}
